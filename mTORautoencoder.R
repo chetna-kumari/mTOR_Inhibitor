@@ -1,4 +1,4 @@
-#AUTOENCODER for dimension reduction of MACCS-FP (20.9.2019)  
+#AUTOENCODER for dimension reduction of MACCS-FP 
 library(data.table)
 library(dplyr)
 #library(xlsx)
